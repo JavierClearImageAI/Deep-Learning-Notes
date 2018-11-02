@@ -1,1 +1,1 @@
-# Training Detectron on Custom Dataset
+# Deep Learning Notes at Clear Image AI
